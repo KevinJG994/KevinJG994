@@ -11,6 +11,7 @@
 ![Banner oferta grafico amarillo gris azul](https://github.com/KevinJG994/KevinJG994/assets/96546093/21a601e2-f5a8-4a51-8cd2-8bd1311ecc6d)
 
 
+  
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-jim%C3%A9nez94/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/c0265393-a350-4ce5-860c-aec343f9f781"/></a>
@@ -19,7 +20,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="PortFolio" title="PortFolio"><img width="32px" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/b11e1caf-fea6-4409-8074-175d2f8198ee"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+</p><br>
 
 
 <!-- About me Zone -->
@@ -49,4 +50,11 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJG994&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+
+<!-- View Profile -->
+<div align="center">
+  
+ ![](https://komarev.com/ghpvc/?username=KEvinJG994&style=for-the-badge&abbreviated=true&color=F7C509)
 </div>
