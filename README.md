@@ -8,7 +8,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7C509&center=true&vCenter=true&random=false&width=435&lines=Hello+world!;Student+Full-Stack+developer" alt="Typing SVG" /></a>
 </p>
 
-![Banner oferta grafico amarillo gris azul](https://github.com/KevinJG994/KevinJG994/assets/96546093/21a601e2-f5a8-4a51-8cd2-8bd1311ecc6d)
+<div align="center">
+  
+<img src="https://github.com/KevinJG994/KevinJG994/assets/96546093/4b09ff9b-26e1-421e-9cf2-f2ed372ef6dc" title="Banner" width="700"><br>
+</div>
+
 
 
   
