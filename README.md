@@ -22,6 +22,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/KevinJG994/"><img width="32px" alt="GitHub" title="GitHub" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/734d10d0-eaa8-420d-b3de-b0d4e948986c"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:kevinjg994@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/e822eade-58d2-4800-abd1-1970b6a340a2"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="PortFolio" title="PortFolio"><img width="32px" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/b11e1caf-fea6-4409-8074-175d2f8198ee"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p><br>
