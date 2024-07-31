@@ -6,11 +6,13 @@
     
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7C509&center=true&vCenter=true&random=false&width=435&lines=Hello+world!;Student+Full-Stack+developer" alt="Typing SVG" /></a>
+
+
 </p>
 
 <div align="center">
   
-<img src="https://github.com/KevinJG994/KevinJG994/assets/96546093/4b09ff9b-26e1-421e-9cf2-f2ed372ef6dc" title="Banner" width="700"><br>
+<img src="https://github.com/user-attachments/assets/8b8b3390-9db6-46ac-ac80-f3ab2456e7fa" title="Banner" width="700"><br>
 </div>
 
 
