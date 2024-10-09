@@ -1,32 +1,32 @@
 <!-- Color de emvabezado   #F7C509FF     -->
 <p align="center">
   <a href="https://github.com/KevinJG994">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7C509&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Kevin+Jim%C3%A9nez" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=22d3ee&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Kevin+Jim%C3%A9nez" alt="Typing SVG" /></a>
 </p>
     
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7C509&center=true&vCenter=true&random=false&width=435&lines=Hello+world!;Student+Full-Stack+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=22d3ee&center=true&vCenter=true&random=false&width=435&lines=Hello+world!;Student+Full-Stack+developer" alt="Typing SVG" /></a>
+
 
 
 </p>
 
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/8b8b3390-9db6-46ac-ac80-f3ab2456e7fa" title="Banner" width="700"><br>
+<img src="https://github.com/user-attachments/assets/b2f812ec-eb93-4c44-a1bd-011829b86f77" title="Banner" width="700"><br>
 </div>
 
 
-
-  
 <!-- Social icons section -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevin-jim%C3%A9nez94/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/c0265393-a350-4ce5-860c-aec343f9f781"/></a>
+  <a href="https://www.linkedin.com/in/kevin-jim%C3%A9nez94/"><img width="48px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/eedcbfc3-e01d-45e3-9cbd-fbb0cf836a6d"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/KevinJG994/"><img width="32px" alt="GitHub" title="GitHub" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/734d10d0-eaa8-420d-b3de-b0d4e948986c"/></a>
+  <a href="https://github.com/KevinJG994/"><img width="48px" alt="GitHub" title="GitHub" src="https://github.com/user-attachments/assets/8d6f1a8c-2c5b-4f90-99d9-fea6e2c38f1a"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:kevinjg994@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/e822eade-58d2-4800-abd1-1970b6a340a2"/></a>
+  <a href="mailto:kevinjg994@gmail.com" alt="Gmail" title="Gmail"><img width="48px" src="https://github.com/user-attachments/assets/864bc593-7c36-4219-ba79-26fffc6c82a5"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="PortFolio" title="PortFolio"><img width="32px" src="https://github.com/KevinJG994/KevinJG994/assets/96546093/b11e1caf-fea6-4409-8074-175d2f8198ee"/></a>
+  <a href="" alt="PortFolio" title="PortFolio"><img width="48px" src="https://github.com/user-attachments/assets/af501014-ce60-4e96-b379-6af26ab6c65b"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p><br>
 
@@ -42,19 +42,19 @@
 
 <!-- Tech Zone -->
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias:</h2>
-
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=JavaScript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,angular,tailwindcss,bootstrap,git&theme=dark" />
+  </a>
+</p>
 
 
 ### 📖 Aprendiendo:
- ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
- <br><br> 
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,docker&theme=dark" />
+  </a>
+</p>
 
 <!-- Stats Zone -->
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Stats:</h2>
