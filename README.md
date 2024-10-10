@@ -67,5 +67,5 @@
 <!-- View Profile -->
 <div align="center">
   
- ![](https://komarev.com/ghpvc/?username=KEvinJG994&style=for-the-badge&abbreviated=true&color=F7C509)
+ ![](https://komarev.com/ghpvc/?username=KEvinJG994&style=for-the-badge&abbreviated=true&color=22d3ee)
 </div>
