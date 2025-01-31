@@ -36,15 +36,13 @@
 
 👨‍🎓  Técnico Superior en Desarrollo de aplicaciones multiplataformas.<br>
 💻  Desarrollador Junior. <br>
-🤝  Actualmente estoy aprendiendo algunos frameworks.<br>
-📖  Aprendiendo más cada día.<br><br>
-
+🤝  Actualmente estoy aprendiendo Desarrollo web.<br>
 
 <!-- Tech Zone -->
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,angular,tailwindcss,bootstrap,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,tailwindcss,bootstrap,git&theme=dark" />
   </a>
 </p>
 
@@ -52,7 +50,7 @@
 ### 📖 Aprendiendo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,docker&theme=dark" />
   </a>
 </p>
 
