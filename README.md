@@ -50,7 +50,7 @@
 ### 📖 Aprendiendo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,angular,docker&theme=dark" />
   </a>
 </p>
 
