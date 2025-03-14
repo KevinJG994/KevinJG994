@@ -40,17 +40,19 @@
 
 <!-- Tech Zone -->
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias:</h2>
+
+### :computer: FrontEnd:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,tailwindcss,bootstrap,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,java,tailwindcss,bootstrap&theme=dark" />
   </a>
 </p>
 
 
-### 📖 Aprendiendo:
+### :construction: BackeEnd:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,angular,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git&theme=dark" />
   </a>
 </p>
 
