@@ -32,7 +32,7 @@
 
 
 <!-- About me Zone -->
-<h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>   Sobre mi:</h2>
+<h2><picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhdGEzNWN4b2Nmcnh4YTd1d2RpdGE4a3Y5bjRkZDZuMWt1dTVtcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width ="25"></picture>   Sobre mi:</h2>
 
 👨‍🎓  Técnico Superior en Desarrollo de aplicaciones multiplataformas.<br>
 💻  Desarrollador Junior. <br>
